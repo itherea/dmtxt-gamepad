@@ -1,0 +1,22 @@
+{
+  "name": "dmtxt-gamepad",
+  "version": "1.0.0",
+  "description": "Gamepad & Joystick MIDI CC plugin for Hydra livecoding video synthesizer",
+  "main": "dmtxt-gamepad.js",
+  "scripts": {
+    "test": "node -e \"console.log('OK')\""
+  },
+  "keywords": [
+    "hydra",
+    "hydra-synth",
+    "livecoding",
+    "gamepad",
+    "joystick",
+    "midi",
+    "midi-cc",
+    "webgl",
+    "creative-coding"
+  ],
+  "author": "dmtxt",
+  "license": "MIT"
+}
